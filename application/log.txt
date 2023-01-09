@@ -1,0 +1,4 @@
+L'instanciation d'un objet Article sans données! : code : 7884 feedBack PHP =>#0 C:\wamp64\www\dossier type mvc\application\models\ArticlesManager.php(33): Articles->__construct(Array)
+#1 C:\wamp64\www\dossier type mvc\application\controlleur\searchController.php(55): ArticlesManager->get('hunter')
+#2 C:\wamp64\www\dossier type mvc\application\controlleur\searchController.php(80): application\controller\rechercherArticles()
+#3 {main}
